@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+*.mat
+Data_Deperession_Rest/
+Data_Normal_Rest/
+Data_PD_Rest/
+*.docx
+*.tmp
+*.txt
